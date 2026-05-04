@@ -76,12 +76,3 @@ Using Python and data visualization techniques, this project explores confirmed 
 
 ---
 
-## 📂 Project Structure
-
-📁 Covid-19-Analysis
-│── 📄 country_wise.py
-│── 📄 data_cleaning.py
-│── 📄 visualization.py
-│── 📁 dataset
-│ └── covid_19_clean_complete.csv
-│── 📄 README.md
